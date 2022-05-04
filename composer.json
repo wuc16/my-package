@@ -1,5 +1,5 @@
 {
-    "name": "root/my-package",
+    "name": "wuc16/my-package",
     "autoload": {
         "psr-4": {
             "Root\\MyPackage\\": "src/"
