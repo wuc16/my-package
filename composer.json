@@ -1,0 +1,15 @@
+{
+    "name": "root/my-package",
+    "autoload": {
+        "psr-4": {
+            "Root\\MyPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Chen Wu",
+            "email": "wuc16@miamioh.edu"
+        }
+    ],
+    "require": {}
+}
