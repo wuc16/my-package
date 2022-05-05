@@ -7,7 +7,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace wuc16\MyPackage;
+namespace Wuc16\MyPackage;
 
 class Hello
 {
