@@ -1,19 +1,19 @@
 <?php 
 
 /*
- * (c) Chen Wu wuc16@miamioh.edu
+ * (c) Chen Wu <wuc16@miamioh.edu>
  *
  * This source file is subject to the MIT license that is bundled
  * with this source code in the file LICENSE.
  */
 
-namespace wuc16\MyPackage;
+namespace liererkt\MyFirstPackage;
 
 class Hello
 {
     public function say($name)
     {
-        return "Hello, $name!";
+        return "What's up, $name!";
     }
 }
 
