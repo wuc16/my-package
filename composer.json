@@ -1,6 +1,6 @@
 {
     "name": "wuc16/my-package",
-    "description": "This is my first package",
+    "description": "This is my first package. 15:42",
     "type": "project",
     "license": "MIT",
     "autoload": {
