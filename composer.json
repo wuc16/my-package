@@ -1,8 +1,11 @@
 {
     "name": "wuc16/my-package",
+    "description": "This is my first package",
+    "type": "project",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Root\\MyPackage\\": "src/"
+            "Wuc16\\MyPackage\\": "src/"
         }
     },
     "authors": [

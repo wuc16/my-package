@@ -1,9 +1,9 @@
 <?php 
 
-require_once './vendor/autoload.php';
+require_once 'vendor/autoload.php';
 
 use wuc16\MyPackage\Hello;
 
-$test = say("hello");
+$test = new Hello();
 
-echo $test;
+echo $test->say('123');
