@@ -11,5 +11,7 @@
             "email": "wuc16@miamioh.edu"
         }
     ],
-    "require": {}
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
 }
